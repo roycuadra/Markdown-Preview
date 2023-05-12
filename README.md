@@ -6,7 +6,5 @@
 
 # Features
 
-- Live preview: As you type in the Markdown editor, the preview pane will update instantly to show you how the rendered HTML will look.
-- Markdown syntax highlighting: The editor provides syntax highlighting to help you write Markdown more easily.
-- Customizable themes: You can choose from a selection of pre-defined themes or create your own custom theme to personalize the previewer's appearance.
+- Live preview: As you type in the Markdown editor, the preview panel will update instantly to show you how the rendered HTML will look.
 - Responsive design: The Markdown previewer is designed to be responsive and work well on different screen sizes, including mobile devices.
