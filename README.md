@@ -1,6 +1,6 @@
 # Markdown Preview using React JS
 
-#[Live Demo](https://markdown-preview-roycua.vercel.app/)
+# [Live Demo](https://markdown-preview-roycua.vercel.app/)
 
 ## This project is a Markdown previewer built with React JS. It allows you to write and preview Markdown syntax in real-time. Markdown is a lightweight markup language used for formatting text.
 
